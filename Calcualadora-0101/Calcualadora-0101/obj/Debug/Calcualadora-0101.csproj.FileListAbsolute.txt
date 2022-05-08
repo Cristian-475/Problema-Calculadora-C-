@@ -1,0 +1,10 @@
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\bin\Debug\Calcualadora-0101.exe.config
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\bin\Debug\Calcualadora-0101.exe
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\bin\Debug\Calcualadora-0101.pdb
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora-0101.csproj.AssemblyReference.cache
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora_0101.Form1.resources
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora_0101.Properties.Resources.resources
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora-0101.csproj.GenerateResource.cache
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora-0101.csproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora-0101.exe
+C:\Users\Crist\source\repos\Calcualadora-0101\Calcualadora-0101\obj\Debug\Calcualadora-0101.pdb
